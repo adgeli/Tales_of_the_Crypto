@@ -53,3 +53,25 @@ Using Spacy, this section builds a named entity recognition model for Bitcoin an
 ![eth_ner](Images/ethereum_ner.png)
 
 ---
+
+## Project Conclusions 
+
+### Sentiment Analysis Results
+
+The following three questions regarding mean score, compound score, and positive score are based on the descriptive statistics conncluded in [Part 1: Sentiment Analysis in the Unit 12 - Tales of the Crypto Notebook](Unit_12_Tales_from_the_Crypto_Notebook.ipynb)
+
+#### Questions:
+
+**Q: Which coin had the highest mean positive score?**
+
+A: The coin with the highest mean positive score is **Ethereum** with a mean positive score of 0.691. Verses Bitcoin, with a positive mean score of 0.684. 
+
+**Q: Which coin had the highest compound score?**
+
+A: The coin with the highest compound score is **Ethereum** with a max compound score of 0.851. Verses Bitcoin with a max compound score of 0.750.
+
+**Q. Which coin had the highest positive score?**
+
+A: The coin with the highest positive score is **Ethereum** with a max positive score of 0.311. Verses Bitcoin with a max positive score of 0.198. 
+
+---
