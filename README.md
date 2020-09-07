@@ -75,3 +75,23 @@ A: The coin with the highest compound score is **Ethereum** with a max compound 
 A: The coin with the highest positive score is **Ethereum** with a max positive score of 0.311. Verses Bitcoin with a max positive score of 0.198. 
 
 ---
+
+## Installation Requirements
+
+To successfully view the [Unit 12 - Tales of the Crypto Notebook](Unit_12_Tales_from_the_Crypto_Notebook.ipynb), the following installations are required: 
+
+```
+pip install pandas
+pip install nltk
+pip install Counter
+pip install matplotlib
+pip install -U spacy
+```
+
+Additionally, the user must create a local *.env* file containing their personal News API Client keys to successfully pull the approporaite articles from the API. 
+
+---
+
+
+
+
