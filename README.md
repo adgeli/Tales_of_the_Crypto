@@ -92,6 +92,11 @@ Additionally, the user must create a local *.env* file containing their personal
 
 ---
 
+## File Contents
 
+- [Unit 12 - Tales of the Crypto Notebook](Unit_12_Tales_from_the_Crypto_Notebook.ipynb)
+- [Unit 12 Instructions](Unit_12_Instructions.md)
+
+--- 
 
 
